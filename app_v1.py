@@ -5,9 +5,13 @@ import streamlit as st
 st.title('Software Perkalian')
 st.write('Pekalian Bilangan ya ges yaaaaaa j4m3t')
 
-#input bilangan pertama
-number1 = st.number_input('masukkan bilangan pertama')
-st.write(f'bilangan pertama adalah {number1}')
+#input nama zat
+namazat = st.number_input('masukkan nama zat')
+st.write(f'bilangan pertama adalah {namazat}')
+
+#show Mr/BE Zat
+if namazat==Na
+    print (23,5)
 
 #input bilangan kedua
 number2 = st.number_input('masukkan bilangan kedua')
